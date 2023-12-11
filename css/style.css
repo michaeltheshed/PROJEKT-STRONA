@@ -1,0 +1,13 @@
+:root{
+    --primary-color-txt: #000000;
+    --secondary-color-txt: #9d9d9d;
+    --bg-color:#ffffff;
+}
+body{
+    font-family: Monserrat, sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: ;
+    width: 100%;
+}
